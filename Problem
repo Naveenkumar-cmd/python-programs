@@ -14,3 +14,11 @@ Test Case 2 16 4 4
 Test Case 3 4 16 0
 Test Case 4 45 49 0
 Test Case 5 3 2 0
+
+m = int(input("enter m:\n\n"))
+n = int(input("enter n:\n\n"))
+
+if m%n==0:
+   print(m/n)
+elif m%n!=0:
+    print("0")
