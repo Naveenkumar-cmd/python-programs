@@ -6,7 +6,9 @@ You have to output 1 if all three inputs are different from each other, and 0 if
 once.
 
 Sample Test Cases
+--
 Input Output
+--
 Test Case 1 100 5 100 0
 Test Case 2 50 25 25 0
 Test Case 3 1 6 1 0
@@ -19,7 +21,9 @@ You have to output 0 if M is not a multiple of N.
 You have to output M/N if M is a multiple of N.
 
 Sample Test Cases
+--
 Input Output
+--
 Test Case 1 100 5 20
 Test Case 2 16 4 4
 Test Case 3 4 16 0
