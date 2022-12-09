@@ -17,7 +17,7 @@ You have to output 0 if M is not a multiple of N.
 You have to output M/N if M is a multiple of N.
 
 Sample Input:
-1 100 5
+100 5
 
 Sample Output:
 20
