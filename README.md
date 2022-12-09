@@ -116,14 +116,3 @@ Sample Input
 
 Sample Output
 give away
-
-
-
-
-
-
-
-
-
-
-
